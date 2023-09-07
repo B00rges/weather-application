@@ -1,6 +1,6 @@
 # weather-application
 
-Apresento a vocês o meu mais novo projeto web do curso CJRM, que utiliza a API Accuweather para fornecer informações precisas e atualizadas sobre o clima. O site foi desenvolvido utilizando as mais modernas tecnologias, como HTML5, CSS, JavaScript puro e Bootstrap, proporcionando uma interface intuitiva e responsiva, permitindo o acesso às informações climáticas de maneira fácil em qualquer dispositivo.
+Implementei uma funcionalidade que utiliza a API Accuweather para fornecer informações precisas e atualizadas sobre o clima. O site foi desenvolvido utilizando as mais modernas tecnologias, como HTML5, CSS, JavaScript puro e Bootstrap, proporcionando uma interface intuitiva e responsiva, permitindo o acesso às informações climáticas de maneira fácil em qualquer dispositivo.
 
 Através deste projeto, você terá acesso a previsões meteorológicas confiáveis, possibilitando que se planeje melhor para as atividades diárias, sejam elas ao ar livre ou em ambientes internos.
 
